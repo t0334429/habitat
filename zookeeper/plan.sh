@@ -1,5 +1,5 @@
 pkg_name=zookeeper
-pkg_origin=core
+pkg_origin=t0334429
 pkg_version=3.7.0
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_description="The Apache ZooKeeper system for distributed coordination is a high-performance service for building distributed applications."
